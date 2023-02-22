@@ -1,0 +1,22 @@
+{
+  "name": "whyeelshoe.github.io",
+  "version": "0.0.1",
+  "description": "my website guy",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whyeelshoe/whyeelshoe.github.io.git"
+  },
+  "keywords": [
+    "damn"
+  ],
+  "author": "yl xue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whyeelshoe/whyeelshoe.github.io/issues"
+  },
+  "homepage": "https://github.com/whyeelshoe/whyeelshoe.github.io#readme"
+}
